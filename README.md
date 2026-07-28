@@ -1,24 +1,138 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>Flutter mobile applications with clean architecture, focusing on performance, scalability, and modern UI.<br><br>👯 I’m looking to collaborate on<br>Flutter projects, open-source packages, and mobile apps that solve real-world problems.<br><br>🤝 I’m looking for help with<br>Advanced Flutter animations, performance optimization, and large-scale app architecture.<br><br>🌱 I’m currently learning<br>Advanced State Management (Bloc/Cubit), Clean Architecture, Firebase integration, and API optimization.<br><br>💬 Ask me about<br>Flutter, Dart, REST APIs, UI/UX implementation, responsive design, and mobile app best practices.<br><br>⚡ Fun fact<br>I enjoy turning complex app requirements into clean, user-friendly Flutter interfaces.
+<div align="center">
 
+# Hi, I'm Khaled Shahien
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/khaled.shahien.2025/) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-shahien-18803a1a5/)
+### Flutter Developer | Mobile Application Developer
 
-# 💻 Tech Stack:
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Adobe](https://img.shields.io/badge/adobe-%23FF0000.svg?style=for-the-badge&logo=adobe&logoColor=white) ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-DA1F26.svg?style=for-the-badge&logo=Adobe%20Creative%20Cloud&logoColor=white) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Selenium](https://img.shields.io/badge/-selenium-%43B02A?style=for-the-badge&logo=selenium&logoColor=white)
-# 📊 GitHub Stats:
-![Khaled's GitHub stats](https://github-readme-stats.vercel.app/api?username=Khaled-shahien&theme=neon&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![Khaled's GitHub streak stats](https://nirzak-streak-stats.vercel.app/?user=Khaled-shahien&theme=neon&hide_border=false)<br/>
-![Khaled's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Khaled-shahien&theme=neon&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+I build polished, maintainable Flutter applications for Android and iOS,
+with a focus on clean architecture, responsive interfaces, and reliable integrations.
 
-### ✍️ Random Dev Quote
-![Random developer quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+[![Open to Work](https://img.shields.io/badge/Open_to-Remote_%7C_Full--time_%7C_Freelance-42A5F5?style=flat-square)](#lets-connect)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-shahien-18803a1a5/)
+[![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Khaled-shahien)
 
-### 🔝 Top Contributed Repo
-![Top contributed repository](https://github-contributor-stats.vercel.app/api?username=Khaled-shahien&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
----
-[![Profile views](https://visitcount.itsvg.in/api?id=Khaled-shahien&icon=0&color=0)](https://visitcount.itsvg.in)
+## About Me
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+I am a Flutter developer with two years of hands-on experience building mobile
+applications, reusable interfaces, and maintainable feature-based codebases.
+My work covers the full application flow: translating designs into responsive
+Flutter UI, managing state, integrating APIs and Firebase services, testing
+critical behavior, and improving existing applications.
+
+- Primary focus: Flutter and cross-platform mobile development
+- Open to remote, full-time, and freelance opportunities worldwide, with
+  particular interest in the Gulf region and Egypt
+- Comfortable working on new MVPs as well as existing Flutter codebases
+
+## What I Do
+
+- Develop complete Flutter applications for Android and iOS
+- Implement product designs as responsive Flutter interfaces
+- Build MVPs for startups and early-stage products
+- Integrate REST APIs and Firebase services
+- Implement authentication, notifications, and local persistence
+- Fix Flutter bugs and develop new features
+- Improve UI responsiveness and application performance
+- Review, organize, and maintain existing Flutter codebases
+
+## Core Stack
+
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=flat-square&logo=dart&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black)
+
+| Area | Technologies and practices |
+| --- | --- |
+| Architecture | Clean Architecture, feature-first organization, dependency injection |
+| State management | BLoC, Cubit, Provider, GetX |
+| Data and backend | REST APIs, Firebase, local storage |
+| Mobile UI | Responsive UI, reusable widgets, cross-platform mobile development |
+| Quality | Testing, debugging, maintenance, Git, GitHub, practical GitHub Actions CI/CD |
+
+## Featured Projects
+
+### [Masrofy](https://github.com/Khaled-shahien/masrofy_app)
+
+A local-first expense tracker for budgets, wallets, reports, backups, and
+day-to-day financial management.
+
+**Core stack:** Flutter, BLoC, Clean Architecture, local storage, testing
+
+**Demonstrates:** Layered architecture, privacy-focused data handling, and
+tested financial workflows.
+
+### [Foodex](https://github.com/Khaled-shahien/Foodex_app)
+
+A polished food-ordering experience with responsive screens and a complete
+journey from onboarding to order tracking.
+
+**Core stack:** Flutter, Cubit, Clean Architecture, go_router, get_it, testing
+
+**Demonstrates:** UI/UX implementation, reusable design systems, and modular
+feature development.
+
+### [Quran App](https://github.com/Khaled-shahien/quran_app)
+
+An Islamic companion for Quran reading, prayer times, adhkar, notifications,
+and daily worship tools.
+
+**Core stack:** Flutter, Provider, REST APIs, Firebase Messaging, local storage
+
+**Demonstrates:** Multi-feature application design, API integration,
+notifications, and offline-aware data flows.
+
+### [Finova](https://github.com/Khaled-shahien/Finova_app)
+
+A personal finance application with transaction management, analytics, and
+responsive financial dashboards.
+
+**Core stack:** Flutter, Firebase Authentication, Firestore, go_router, charts
+
+**Demonstrates:** Firebase integration, data visualization, and responsive
+finance-oriented UI.
+
+### [Grocery App](https://github.com/Khaled-shahien/Grocery_App)
+
+A shopping application with authentication, product discovery, favorites,
+cart management, and responsive user flows.
+
+**Core stack:** Flutter, BLoC, Firebase, Dio, Clean Architecture
+
+**Demonstrates:** E-commerce workflows, state management, backend integration,
+and feature-first organization.
+
+### [Book App](https://github.com/Khaled-shahien/Book_App)
+
+A book-discovery application with search, categories, authentication, and
+Google Books data integration.
+
+**Core stack:** Flutter, GetX, Dio, Google Books API, Firebase
+
+**Demonstrates:** REST API mapping, resilient model defaults, cached search
+results, and focused model tests.
+
+## Engineering Approach
+
+- Keep presentation, business logic, and data concerns clearly separated
+- Choose state management based on project needs rather than habit
+- Build reusable components and responsive layouts
+- Handle loading, empty, success, and failure states explicitly
+- Protect environment-specific configuration and document setup safely
+- Add focused tests around important application behavior
+
+## Current Focus
+
+I am continuing to strengthen automated testing, Flutter performance,
+GitHub Actions workflows, and production release practices.
+
+## Let's Connect
+
+I am open to Flutter roles, mobile application projects, MVP development,
+and long-term collaboration. If you are building a mobile product or improving
+an existing Flutter application, I would be glad to discuss how I can help.
+
+- [LinkedIn](https://www.linkedin.com/in/khaled-shahien-18803a1a5/)
+- [Email](mailto:shahienk856@gmail.com)
+- [GitHub](https://github.com/Khaled-shahien)
