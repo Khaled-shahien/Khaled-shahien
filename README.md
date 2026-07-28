@@ -29,12 +29,13 @@ critical behavior, and improving existing applications.
 ## What I Do
 
 - Develop complete Flutter applications for Android and iOS
-- Turn Figma and Adobe XD designs into responsive Flutter interfaces
+- Implement product designs as responsive Flutter interfaces
 - Build MVPs for startups and early-stage products
 - Integrate REST APIs and Firebase services
+- Implement authentication, notifications, and local persistence
 - Fix Flutter bugs and develop new features
 - Improve UI responsiveness and application performance
-- Provide code reviews, maintenance, and store preparation
+- Review, organize, and maintain existing Flutter codebases
 
 ## Core Stack
 
@@ -49,10 +50,6 @@ critical behavior, and improving existing applications.
 | Data and backend | REST APIs, Firebase, local storage |
 | Mobile UI | Responsive UI, reusable widgets, cross-platform mobile development |
 | Quality | Testing, debugging, maintenance, Git, GitHub, practical GitHub Actions CI/CD |
-
-Supporting development skills: C#, Java, Python, and Selenium.
-
-Design tools: Canva and Adobe tools.
 
 ## Featured Projects
 
@@ -105,6 +102,16 @@ cart management, and responsive user flows.
 
 **Demonstrates:** E-commerce workflows, state management, backend integration,
 and feature-first organization.
+
+### [Book App](https://github.com/Khaled-shahien/Book_App)
+
+A book-discovery application with search, categories, authentication, and
+Google Books data integration.
+
+**Core stack:** Flutter, GetX, Dio, Google Books API, Firebase
+
+**Demonstrates:** REST API mapping, resilient model defaults, cached search
+results, and focused model tests.
 
 ## Engineering Approach
 
