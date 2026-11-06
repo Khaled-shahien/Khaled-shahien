@@ -8,15 +8,16 @@ I build polished, maintainable Flutter applications for Android and iOS,
 with a focus on clean architecture, responsive interfaces, and reliable integrations.
 
 [![Open to Work](https://img.shields.io/badge/Open_to-Remote_%7C_Full--time_%7C_Freelance-42A5F5?style=flat-square)](#lets-connect)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-shahien-18803a1a5/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/khaled-shahien/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/Khaled-shahien)
 
 </div>
 
 ## About Me
 
-I am a Flutter developer with two years of hands-on experience building mobile
-applications, reusable interfaces, and maintainable feature-based codebases.
+I am a Flutter developer with a Computer Science background and one year of
+hands-on professional experience building mobile applications, reusable
+interfaces, and maintainable feature-based codebases.
 My work covers the full application flow: translating designs into responsive
 Flutter UI, managing state, integrating APIs and Firebase services, testing
 critical behavior, and improving existing applications.
@@ -133,6 +134,6 @@ I am open to Flutter roles, mobile application projects, MVP development,
 and long-term collaboration. If you are building a mobile product or improving
 an existing Flutter application, I would be glad to discuss how I can help.
 
-- [LinkedIn](https://www.linkedin.com/in/khaled-shahien-18803a1a5/)
+- [LinkedIn](https://www.linkedin.com/in/khaled-shahien/)
 - [Email](mailto:shahienk856@gmail.com)
 - [GitHub](https://github.com/Khaled-shahien)
