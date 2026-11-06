@@ -81,7 +81,7 @@ final khaled = Developer(
   </tr>
   <tr>
     <td width="190" align="center">
-      <a href="https://github.com/Khaled-shahien/Grocery_App"><img src="https://raw.githubusercontent.com/Khaled-shahien/Grocery_App/main/docs/screenshots/after/home_en.png" width="150" alt="Grocery App" /></a>
+      <a href="https://github.com/Khaled-shahien/Grocery_App"><img src="https://raw.githubusercontent.com/Khaled-shahien/Grocery_App/main/assets/branding/app_icon.png" width="150" alt="Grocery App" /></a>
     </td>
     <td>
       <h3><a href="https://github.com/Khaled-shahien/Grocery_App">🛒 Grocery App</a></h3>
@@ -92,7 +92,7 @@ final khaled = Developer(
   </tr>
   <tr>
     <td width="190" align="center">
-      <a href="https://github.com/Khaled-shahien/Rahhala_App"><img src="https://raw.githubusercontent.com/Khaled-shahien/Rahhala_App/main/assets/screenshots/home.png" width="150" alt="Rahhala" /></a>
+      <a href="https://github.com/Khaled-shahien/Rahhala_App"><img src="https://raw.githubusercontent.com/Khaled-shahien/Rahhala_App/main/assets/images/app_icon.png" width="150" alt="Rahhala" /></a>
     </td>
     <td>
       <h3><a href="https://github.com/Khaled-shahien/Rahhala_App">🧭 Rahhala</a></h3>
@@ -114,7 +114,7 @@ final khaled = Developer(
   </tr>
   <tr>
     <td width="190" align="center">
-      <a href="https://github.com/Khaled-shahien/Book_App"><img src="https://raw.githubusercontent.com/Khaled-shahien/Book_App/main/assets/screenshots/home.png" width="150" alt="Book App" /></a>
+      <a href="https://github.com/Khaled-shahien/Book_App"><img src="assets/logos/book_app.svg" width="150" alt="Book App" /></a>
     </td>
     <td>
       <h3><a href="https://github.com/Khaled-shahien/Book_App">📚 Book App</a></h3>
