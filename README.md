@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:02569B,100:13B9FD&height=190&section=header&text=Khaled%20Shahien&fontSize=46&fontColor=ffffff&fontAlignY=36&desc=Flutter%20Developer%20%E2%80%A2%20Android%20%26%20iOS&descSize=18&descAlignY=58" width="100%" alt="Khaled Shahien — Flutter Developer" />
+<img src="assets/banner.svg" width="100%" alt="Khaled Shahien — Flutter Developer" />
 
 <a href="#featured-projects"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=900&color=13B9FD&center=true&vCenter=true&width=620&lines=I+build+Flutter+apps+for+Android+%26+iOS;Firebase+%E2%80%A2+REST+APIs+%E2%80%A2+BLoC+%2F+Cubit;Arabic+%2F+English+apps+with+full+RTL+support;Clean%2C+tested%2C+maintainable+code" alt="Typing intro" /></a>
 
@@ -155,6 +155,5 @@ Have a Flutter app to build, or an existing one that needs new features or fixes
 <a href="https://www.linkedin.com/in/khaled-shahien/"><img src="https://img.shields.io/badge/LinkedIn-khaled--shahien-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 <a href="mailto:shahienk856@gmail.com"><img src="https://img.shields.io/badge/Email-shahienk856@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:13B9FD,100:02569B&height=110&section=footer" width="100%" alt="" />
 
 </div>

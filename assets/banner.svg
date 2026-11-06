@@ -1,0 +1,32 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="260" viewBox="0 0 1200 260" role="img" aria-label="Khaled Shahien — Flutter Developer">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#042B59"/>
+      <stop offset="55%" stop-color="#02569B"/>
+      <stop offset="100%" stop-color="#13B9FD"/>
+    </linearGradient>
+    <linearGradient id="shine" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#ffffff" stop-opacity="0"/>
+      <stop offset="50%" stop-color="#ffffff" stop-opacity="0.18"/>
+      <stop offset="100%" stop-color="#ffffff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="260" rx="22" fill="url(#bg)"/>
+  <!-- soft decorative circles -->
+  <circle cx="1080" cy="40" r="120" fill="#ffffff" opacity="0.06"/>
+  <circle cx="1150" cy="230" r="80" fill="#ffffff" opacity="0.05"/>
+  <circle cx="80" cy="250" r="90" fill="#ffffff" opacity="0.04"/>
+  <!-- phone outline with code mark -->
+  <g transform="translate(960 45)">
+    <rect x="0" y="0" width="110" height="180" rx="18" fill="#ffffff" fill-opacity="0.10" stroke="#D6F2FF" stroke-opacity="0.7" stroke-width="3"/>
+    <rect x="40" y="12" width="30" height="5" rx="2.5" fill="#D6F2FF" opacity="0.7"/>
+    <text x="55" y="108" text-anchor="middle" font-family="Consolas, Menlo, monospace" font-size="34" font-weight="700" fill="#ffffff">&lt;/&gt;</text>
+  </g>
+  <!-- moving shine -->
+  <rect x="-400" y="0" width="300" height="260" fill="url(#shine)">
+    <animate attributeName="x" from="-400" to="1300" dur="6s" repeatCount="indefinite"/>
+  </rect>
+  <text x="70" y="118" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="58" font-weight="700" fill="#ffffff">Khaled Shahien</text>
+  <text x="72" y="166" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="26" fill="#D6F2FF">Flutter Developer  •  Android &amp; iOS</text>
+  <text x="72" y="208" font-family="Segoe UI, Helvetica, Arial, sans-serif" font-size="18" fill="#A9E4FF" letter-spacing="1">Firebase  ·  REST APIs  ·  BLoC / Cubit  ·  Arabic &amp; RTL</text>
+</svg>
